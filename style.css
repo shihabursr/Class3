@@ -1,0 +1,80 @@
+/*h1{
+	color: red;
+}
+h2{
+	color: #0978;
+
+}
+
+h3{
+	color:  #1978;
+
+}
+h4{
+	color:  #9778;
+
+}
+h5{
+	color:  #9278;
+
+}
+h6{
+	color:  #9768;
+*/
+}
+p{
+	color: blue;
+	font: 25px;
+	text-decoration:initial;
+}   
+.pera01{
+	color: red;
+	font: 40px;
+	text-decoration: none;
+
+}
+#pera02{
+	color: #9778;
+	text-decoration: inherit;
+	font-size: 20px;
+
+}
+#pera03{
+	color: red;
+	text-decoration-style: initial;
+}
+.pera04{
+	color: blue;
+	text-decoration: red;
+
+}
+.pera07 h1,h2,h3{
+	color: red!important;
+	font-size : 25px;
+	}
+	.pera07 h4,h5,h6{
+		color: green;
+		font-size: 1.2rem;
+	}
+img{
+	width: 45%;
+	height: 45%;
+}
+
+.imageup img{
+	width: 500px;
+	height: 500px;
+}
+/*.imagedown{
+	width: 500px;
+	height: 500px;
+}*/
+#image1{
+	float: left;
+}
+#image2{
+	float: right;
+}
+/*#image3{
+	float: center;
+}*/
